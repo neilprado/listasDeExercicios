@@ -1,2 +1,2 @@
 # listasDeExercicios
-Repositório criado para postar listas de exercício
+Repositório criado com intuito de compartilhar listas de exercícios para posterior visualização
